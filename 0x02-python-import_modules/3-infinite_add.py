@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-if __name__ == __main__'
+if __name__ == '__main__'
 '''print the addition of all arguments'''
-imprt sys
+import sys
 
 total = 0
 for i in range(len(sys.argv) - 1):
